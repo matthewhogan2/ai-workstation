@@ -1,0 +1,8 @@
+{
+  "id": "sample",
+  "prompt": "Hello world",
+  "status": "done",
+  "createdAt": "2026-05-22T00:00:00.000Z",
+  "result": "MOCK: would process: Hello world",
+  "completedAt": "2026-05-22T19:21:18.064Z"
+}

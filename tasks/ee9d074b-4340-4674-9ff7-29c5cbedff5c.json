@@ -1,0 +1,8 @@
+{
+  "id": "ee9d074b-4340-4674-9ff7-29c5cbedff5c",
+  "prompt": "test task",
+  "status": "done",
+  "createdAt": "2026-05-22T19:21:56.244Z",
+  "result": "MOCK: would process: test task",
+  "completedAt": "2026-05-22T19:21:58.075Z"
+}
